@@ -117,8 +117,11 @@ deploy() {
 }
 
 main() {
+  echo "cyun+++0"
   init
+  echo "cyun+++1"
   build
+  echo "cyun+++2"
   test
   resume_site_dir
 
@@ -126,6 +129,7 @@ main() {
     exit 0
   fi
 
+  echo "cyun+++1"
   setup_gh
   backup
   flush
