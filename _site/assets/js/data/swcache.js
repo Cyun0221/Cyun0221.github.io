@@ -1,42 +1,42 @@
 const resource = [
 
   /* --- CSS --- */
-  '/Cyun0221.github.io/assets/css/style.css',
+  '/assets/css/style.css',
 
   /* --- PWA --- */
-  '/Cyun0221.github.io/app.js',
-  '/Cyun0221.github.io/sw.js',
+  '/app.js',
+  '/sw.js',
 
   /* --- HTML --- */
-  '/Cyun0221.github.io/index.html',
-  '/Cyun0221.github.io/404.html',
+  '/index.html',
+  '/404.html',
   
-    '/Cyun0221.github.io/categories/',
+    '/categories/',
   
-    '/Cyun0221.github.io/tags/',
+    '/tags/',
   
-    '/Cyun0221.github.io/archives/',
+    '/archives/',
   
-    '/Cyun0221.github.io/about/',
+    '/about/',
   
 
   /* --- Favicons & compressed JS --- */
   
   
-    '/Cyun0221.github.io/assets/img/favicons/android-chrome-192x192.png',
-    '/Cyun0221.github.io/assets/img/favicons/android-chrome-512x512.png',
-    '/Cyun0221.github.io/assets/img/favicons/apple-touch-icon.png',
-    '/Cyun0221.github.io/assets/img/favicons/favicon-16x16.png',
-    '/Cyun0221.github.io/assets/img/favicons/favicon-32x32.png',
-    '/Cyun0221.github.io/assets/img/favicons/favicon.ico',
-    '/Cyun0221.github.io/assets/img/favicons/mstile-150x150.png',
-    '/Cyun0221.github.io/assets/js/dist/categories.min.js',
-    '/Cyun0221.github.io/assets/js/dist/commons.min.js',
-    '/Cyun0221.github.io/assets/js/dist/home.min.js',
-    '/Cyun0221.github.io/assets/js/dist/misc.min.js',
-    '/Cyun0221.github.io/assets/js/dist/page.min.js',
-    '/Cyun0221.github.io/assets/js/dist/post.min.js',
-    '/Cyun0221.github.io/assets/js/dist/pvreport.min.js'
+    '/assets/img/favicons/android-chrome-192x192.png',
+    '/assets/img/favicons/android-chrome-512x512.png',
+    '/assets/img/favicons/apple-touch-icon.png',
+    '/assets/img/favicons/favicon-16x16.png',
+    '/assets/img/favicons/favicon-32x32.png',
+    '/assets/img/favicons/favicon.ico',
+    '/assets/img/favicons/mstile-150x150.png',
+    '/assets/js/dist/categories.min.js',
+    '/assets/js/dist/commons.min.js',
+    '/assets/js/dist/home.min.js',
+    '/assets/js/dist/misc.min.js',
+    '/assets/js/dist/page.min.js',
+    '/assets/js/dist/post.min.js',
+    '/assets/js/dist/pvreport.min.js'
 
 ];
 

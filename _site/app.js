@@ -1,5 +1,5 @@
 /* Registering Service Worker */
 if('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('/Cyun0221.github.io/sw.js');
+  navigator.serviceWorker.register('/sw.js');
 };
 
