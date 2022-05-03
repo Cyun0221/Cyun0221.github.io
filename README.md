@@ -39,8 +39,6 @@ $ bundle exec jekyll serve
 
 <br />
 
-------
-
 ### 📺 TODO
 
 - [ ] Update README-zh.md
