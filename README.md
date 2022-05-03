@@ -9,10 +9,10 @@
 
 
 ## DEMO
-[Demo](https://cyun0221.github.io/)  |  [中文](https://cyun0221.github.io/)
+[Demo](https://cyun0221.github.io/) | [中文](https://cyun0221.github.io/)
 
 ## Getting Started
-1. You will need [Ruby](https://www.ruby-lang.org/en/) and [Bundler](https://bundler.io/) to use [Jekyll](https://jekyllrb.com/). Following [Using Jekyll with Bundler](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/) to fullfill the enviromental requirement.
+1. You will need [Ruby](https://www.ruby-lang.org/en/) and [Bundler](https://bundler.io/) to use [Jekyll](https://jekyllrb.com/). If you don't have gcc and make then you need to install them as well. Following [Jekyll Installation](https://jekyllrb.com/docs/installation/) to fullfill the enviromental requirement.
 
 2. Installed dependencies in the `Gemfile`:
 
@@ -26,6 +26,6 @@ $ bundle
 $ bundle exec jekyll serve
 ```
 
-
+## TODO
 
 
