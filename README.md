@@ -5,7 +5,7 @@
   <img src="https://cyun0221.github.io/assets/images/README/favicon.jpg" alt="头像" width=160 height=160>
 </div>
 
-#### 🆔 [About Me](https://cyun0221.github.io/2022/05/03/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BA%8C%E4%B8%89%E4%BA%8B.html)
+#### 🆔 [About Me](https://cyun0221.github.io/about.html)
 
 >  **Contact Me**
 
