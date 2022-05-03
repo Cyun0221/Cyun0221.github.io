@@ -8,22 +8,18 @@
 #### 🆔 [About Me](https://cyun0221.github.io/2022/05/03/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BA%8C%E4%B8%89%E4%BA%8B.html)
 
 >  **Contact Me**
->
-> if you have something about the project can contact me from Bilibili or CnBlogs. Ofcourse, you can email me by email to "chenyun19990221@qq.com". I will reply you as soon as possible.
 
-[Bilibili](https://space.bilibili.com/39102715?spm_id_from=333.1007.0.0) | [Cnblogs](https://www.cnblogs.com/chenyun-/)  
+- Bilibili: https://space.bilibili.com/39102715?spm_id_from=333.1007.0.0
+- Cnblogs: https://www.cnblogs.com/chenyun-/ 
+- Email: chenyun19990221@qq.com
 
-
-
-------
+<br />
 
 ### 📀 DEMO
 
 [Demo](https://cyun0221.github.io/) | [中文](https://cyun0221.github.io/)
 
-
-
-------
+<br />
 
 ### 💞 Getting Started
 
@@ -41,7 +37,7 @@ $ bundle
 $ bundle exec jekyll serve
 ```
 
-
+<br />
 
 ------
 
