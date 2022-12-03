@@ -2,7 +2,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/Cyun0221.github.io/",
+  base: "/",
 
   locales: {
     "/": {

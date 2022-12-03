@@ -1,1 +1,0 @@
-import{_}from"./_plugin-vue_export-helper.cdc0426e.js";import{o as e,c as t}from"./app.5f1815e4.js";const c={};function o(r,n){return e(),t("div")}const f=_(c,[["render",o],["__file","一起同过窗1.html.vue"]]);export{f as default};
