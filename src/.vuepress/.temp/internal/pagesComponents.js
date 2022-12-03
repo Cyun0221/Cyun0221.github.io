@@ -31,14 +31,14 @@ export const pagesComponents = {
   "v-d7188082": defineAsyncComponent(() => import(/* webpackChunkName: "v-d7188082" */"E:/cyun/knowledge/src/.vuepress/.temp/pages/study/index.html.vue")),
   // path: /study/%E5%88%B7%E9%A2%98%E7%AC%94%E8%AE%B0.html
   "v-5d5f6b0b": defineAsyncComponent(() => import(/* webpackChunkName: "v-5d5f6b0b" */"E:/cyun/knowledge/src/.vuepress/.temp/pages/study/刷题笔记.html.vue")),
-  // path: /guide/bar/baz.html
-  "v-177e1f06": defineAsyncComponent(() => import(/* webpackChunkName: "v-177e1f06" */"E:/cyun/knowledge/src/.vuepress/.temp/pages/guide/bar/baz.html.vue")),
-  // path: /guide/bar/
-  "v-5d5c2d30": defineAsyncComponent(() => import(/* webpackChunkName: "v-5d5c2d30" */"E:/cyun/knowledge/src/.vuepress/.temp/pages/guide/bar/index.html.vue")),
   // path: /guide/foo/ray.html
   "v-0b6fc5f8": defineAsyncComponent(() => import(/* webpackChunkName: "v-0b6fc5f8" */"E:/cyun/knowledge/src/.vuepress/.temp/pages/guide/foo/ray.html.vue")),
   // path: /guide/foo/
   "v-5d5821d6": defineAsyncComponent(() => import(/* webpackChunkName: "v-5d5821d6" */"E:/cyun/knowledge/src/.vuepress/.temp/pages/guide/foo/index.html.vue")),
+  // path: /guide/bar/baz.html
+  "v-177e1f06": defineAsyncComponent(() => import(/* webpackChunkName: "v-177e1f06" */"E:/cyun/knowledge/src/.vuepress/.temp/pages/guide/bar/baz.html.vue")),
+  // path: /guide/bar/
+  "v-5d5c2d30": defineAsyncComponent(() => import(/* webpackChunkName: "v-5d5c2d30" */"E:/cyun/knowledge/src/.vuepress/.temp/pages/guide/bar/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"E:/cyun/knowledge/src/.vuepress/.temp/pages/404.html.vue")),
 }

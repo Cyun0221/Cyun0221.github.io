@@ -14,9 +14,9 @@ export const pagesRoutes = [
   ["v-20362618","/life/%E7%90%85%E7%90%8A%E6%A6%9C.html",{"t":""},["/life/琅琊榜.html","/life/%E7%90%85%E7%90%8A%E6%A6%9C","/life/琅琊榜.md","/life/%E7%90%85%E7%90%8A%E6%A6%9C.md"]],
   ["v-d7188082","/study/",{"t":"我的学习","i":"creative"},["/study/index.html","/study/README.md"]],
   ["v-5d5f6b0b","/study/%E5%88%B7%E9%A2%98%E7%AC%94%E8%AE%B0.html",{"t":""},["/study/刷题笔记.html","/study/%E5%88%B7%E9%A2%98%E7%AC%94%E8%AE%B0","/study/刷题笔记.md","/study/%E5%88%B7%E9%A2%98%E7%AC%94%E8%AE%B0.md"]],
-  ["v-177e1f06","/guide/bar/baz.html",{"t":"Baz","i":"info"},["/guide/bar/baz","/guide/bar/baz.md"]],
-  ["v-5d5c2d30","/guide/bar/",{"t":"Bar 功能","i":"creative"},["/guide/bar/index.html","/guide/bar/README.md"]],
   ["v-0b6fc5f8","/guide/foo/ray.html",{"t":"Ray","i":"config"},["/guide/foo/ray","/guide/foo/ray.md"]],
   ["v-5d5821d6","/guide/foo/",{"t":"Foo 功能","i":"config"},["/guide/foo/index.html","/guide/foo/README.md"]],
+  ["v-177e1f06","/guide/bar/baz.html",{"t":"Baz","i":"info"},["/guide/bar/baz","/guide/bar/baz.md"]],
+  ["v-5d5c2d30","/guide/bar/",{"t":"Bar 功能","i":"creative"},["/guide/bar/index.html","/guide/bar/README.md"]],
   ["v-3706649a","/404.html",{"t":""},["/404"]],
 ]
